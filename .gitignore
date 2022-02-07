@@ -1,0 +1,8 @@
+#ignoring all .log files
+*.log
+
+#ignoring all .txt files
+*.txt
+
+#ignoring specific file
+test\[6\].txt
